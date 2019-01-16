@@ -7,6 +7,6 @@ The app neatly arranges a bunch of made-up trips and displays them in a responsi
 React, creat-react-app, NPM, Node.js
 
 ## Screenshots
-![Screenshot of Home Page](screenshots/main.jpg?raw=true "Title")
-![Screenshot of Table Mode](screenshots/responsive.jpg?raw=true "Title")
-![Screenshot of Search Function](screenshots/search.jpg?raw=true "Title")
+<img src="screenshots/main.jpg" alt="drawing" width="100%"/>
+<img src="screenshots/search.jpg" alt="drawing" width="100%"/>
+<img src="screenshots/responsive.jpg" alt="drawing" width="50%"/>
