@@ -1,10 +1,8 @@
-## About
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and is not hosted online yet.
+## Trip Listings
+## A React app that displays searchable trips as cards in a responsive web page.
+**App Link:** https://trip-listings.herokuapp.com
 
-The app neatly arranges a bunch of made-up trips and displays them in a responsive web page. It also features a search function which can search through trips by name.
-
-## Tools Used
-React, creat-react-app, NPM, Node.js
+**Summary:** This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The app neatly arranges a bunch of made-up trips and displays them in a responsive web page. It also features a search function which can search through trips by name.
 
 ## Screenshots
 <img src="screenshots/main.jpg" alt="drawing" width="100%"/>
